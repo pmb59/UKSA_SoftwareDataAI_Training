@@ -30,7 +30,7 @@ exclude_patterns = []
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
-html_logo = "Logo_long_wbkg_all_partners.jpg"
+html_logo = "Logos_Banner.png"
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
