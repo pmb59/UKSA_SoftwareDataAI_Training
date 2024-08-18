@@ -70,11 +70,11 @@ Phase 1 will provide a breadth of understanding about software and data usage in
 Links for the course
 --------------------
 
-- Link to the University of Portsmouth CPD Moodle
-- Moodle help e-mail: cadi-digital@port.ac.uk
-- Logistics help and guidance: daniel.smith@port.ac.uk
-- Course leader: becky.canning@port.ac.uk
-- Code installation helpdesk: 
+- Link to the `University of Portsmouth CPD Moodle`_
+- Link to `private Github`_
+
+.. _University of Portsmouth CPD Moodle: https://cpd.port.ac.uk/
+.. _private Github: https://github.com/reac2/UKSA_SoftwareDataAI_Training_Private
 
 External resources list for the course
 **************************************
