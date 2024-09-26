@@ -24,8 +24,6 @@ For numerours internal refrencing options see `here <https://www.sphinx-doc.org/
 
 .. _my-reference-label:
 
-Section to cross-reference
---------------------------
 
 
 * bullet point
