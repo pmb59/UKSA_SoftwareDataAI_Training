@@ -6,7 +6,7 @@ C is not needed for the majority of the course and will not be needed for all de
 
 ### These notebooks:
 
-Usually c programs are .c files compiled on the terminal. Scripting lanaguages are the ones often used with jupyter notebooks. However, it is possible to install a C kernel for your jupyter notebook and this gives a nice format for interacting with the language, especially when you might want to switch between C and python when prototyping code. The .yaml file provided for this course will install a C kernel for your own jupyter lab environment but you can also use [google colab](https://colab.research.google.com) (with a small sysntax change where the program is saved and run in two steps) to run these codes. 
+Usually c programs are .c files compiled on the terminal. Scripting lanaguages are the ones often used with jupyter notebooks. However, it is possible to install a C kernel for your jupyter notebook and this gives a nice format for interacting with the language, especially when you might want to switch between C and python when prototyping code. The .yaml file provided for this course will install a C kernel for your own jupyter lab environment but you can also use `google colab <https://colab.research.google.com>`_ (with a small sysntax change where the program is saved and run in two steps) to run these codes. 
 
 There are two of each notebook - one is labelled 'colab' - this can be run in colab (the c compilers are already installed and avalible there)
 
