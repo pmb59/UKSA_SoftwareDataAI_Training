@@ -9,7 +9,7 @@ source ~/.zshrc
 # The first environment has AI/ML and GIS pacakges needed
 # The second environment has the DSP packages needed
 
-dir_to_download_to="/Users/beckie/Documents/Portsmouth/Training_Courses/Phase_2/yamls"
+dir_to_download_to="UKSA_SoftwareDataAI_Training/Phase2_Materials"
 
 micromamba env create --name UKSA_course_env -c conda-forge --file ${dir_to_download_to}/UKSA_course.yaml
 micromamba activate UKSA_course_env
