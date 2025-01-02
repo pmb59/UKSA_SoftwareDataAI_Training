@@ -19,6 +19,16 @@ There are two of each notebook - one is labelled 'colab' - this can be run in co
 * 3 - using operators
 * 4 - using loops and ocnditionals
 
+If you are working on a work computer or another resource where installing packages is not easy we would reocmmend using google colab to view these notebooks. Please note that to complete the course you will not need to install python packages to your own machiene as computational resouces will be provided for you on our cluster.  You will only need your sign-in details to access this. 
+
+To open these notebooks in google colab:
+
+  1. click on the .ipynb file you wish to open - this will open another github page where you will see the notebook
+  2. click the button on the top right hand corner of the opened notebook which says 'download raw file' - the icon for this looks like a down arrow over a line - make sure that you file is a .ipynb not an .html file
+  3. open google colab here: `google colab <https://colab.research.google.com>`_ 
+  4. on the 'open notebook' screen, click upload and find the downloaded file on your computer.
+  5. To run cells in the notebook you can use the button 'runtime' or you can press shift+enter in each cell. 
+
 ---------------
 Other resources
 ---------------
